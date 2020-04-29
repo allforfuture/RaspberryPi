@@ -1,0 +1,24 @@
+{
+  "wheel": [
+    {
+      "name": "topLeft",
+      "model": "out",
+      "gpio": [ 16, 21 ]
+    },
+    {
+      "name": "topRight",
+      "model": "out",
+      "gpio": [ 1, 2 ]
+    },
+    {
+      "name": "bottomLeft",
+      "model": "out",
+      "gpio": [ 3, 4 ]
+    },
+    {
+      "name": "bottomRight",
+      "model": "out",
+      "gpio": [ 5, 6 ]
+    }
+  ]
+}
